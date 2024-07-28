@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d-activate
+- 👋 Hi, I’m Daniel (@d-activate)
 - 👀 I’m interested in ... coding, gaming, music, animals
 - 🌱 I’m currently learning ... full-stack 
 - 💞️ I’m looking to collaborate on ... freelance projects
