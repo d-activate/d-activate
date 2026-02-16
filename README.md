@@ -1,62 +1,66 @@
-👋 Hey, I’m Dan (@d-activate)
+# 👋 Hey, I’m Dan (@d-activate)
 
-Founder. Builder. Revenue operator.
+**Founder. Builder. Revenue Operator.**
 
 I design and build software that eliminates operational drag and helps small businesses scale intelligently.
 
-🚀 What I Do
+---
 
-🧠 Founder & CEO of Mektra LLC — a lean, founder-led software studio
+## 🚀 What I Do
 
-🏗 Building AI-driven web applications end to end (architecture → code → deploy)
+- Founder & CEO of **Mektra LLC** — lean, founder-led software studio  
+- Build AI-driven web applications end to end (architecture → code → deploy)  
+- 20+ years in sales leadership, CRM optimization, and revenue systems  
+- Design outbound systems and automation workflows  
+- Replace manual processes with scalable software  
 
-📈 20+ years in sales leadership, CRM optimization, and revenue systems
+---
 
-🔁 Specializing in outbound systems, automation workflows, and performance optimization
+## 🛠 Current Projects
 
-⚙️ Focused on replacing manual work with scalable software
+- **Studio 1003**  
+  Mortgage SaaS platform reducing loan origination overhead  
 
-🛠 Current Projects
+- **Vet Uplift**  
+  Structured public directory helping veterans find trusted resources  
 
-Studio 1003 — Mortgage SaaS platform reducing loan origination overhead
+- **Mektra CRM**  
+  Streamlined CRM platform for small and midsize businesses  
 
-Vet Uplift — Structured public directory helping veterans find trusted resources
+---
 
-Mektra CRM — Streamlined CRM platform for small and midsize businesses
+## 🧠 Core Philosophy
 
-🧩 Core Philosophy
+Clean architecture  
+Deterministic systems  
+Measured performance  
+No agency layers  
 
-Clean architecture.
-Deterministic systems.
-Measured performance.
-No agency layers. No fluff.
+---
 
-🌱 Currently Deepening
+## 🌱 Currently Deepening
 
-Advanced full-stack engineering
+- Advanced full-stack engineering  
+- AI-assisted development workflows  
+- Scalable domain-driven architecture  
+- SaaS product strategy  
 
-AI-assisted development workflows
+---
 
-Scalable domain-driven architecture
+## 🤝 Open To
 
-SaaS product strategy
+- Strategic freelance builds  
+- Founder-led software collaborations  
+- Select remote W2 opportunities  
 
-🤝 Open To
+---
 
-Strategic freelance builds
-
-Founder-led software collaborations
-
-Select remote W2 opportunities
-
-🎧 Outside of Tech
+## 🎧 Outside of Tech
 
 I write, record, and master music.
 
-📫 Connect
+---
 
-LinkedIn: https://linkedin.com/in/danmunson1
-<!---
-d-activate/d-activate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/danmunson1
