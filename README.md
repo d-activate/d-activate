@@ -1,17 +1,61 @@
-👋 Hey, I’m Daniel (@d-activate)
+👋 Hey, I’m Dan (@d-activate)
 
-💼 Sales pro with 19+ years of experience across SaaS, tech, and real estate
+Founder. Builder. Revenue operator.
 
-⚙️ Focused on outbound strategy, automation, and CRM optimization
+I design and build software that eliminates operational drag and helps small businesses scale intelligently.
 
-🧠 Learning full-stack dev to build smarter, more efficient sales systems
+🚀 What I Do
 
-🤝 Open to freelance projects and fully remote W2 roles
+🧠 Founder & CEO of Mektra LLC — a lean, founder-led software studio
 
-🎧 Fun fact: I write, record, and master music in my spare time
+🏗 Building AI-driven web applications end to end (architecture → code → deploy)
 
-📫 Connect with me on LinkedIn: linkedin.com/in/danmunson1
+📈 20+ years in sales leadership, CRM optimization, and revenue systems
 
+🔁 Specializing in outbound systems, automation workflows, and performance optimization
+
+⚙️ Focused on replacing manual work with scalable software
+
+🛠 Current Projects
+
+Studio 1003 — Mortgage SaaS platform reducing loan origination overhead
+
+Vet Uplift — Structured public directory helping veterans find trusted resources
+
+Mektra CRM — Streamlined CRM platform for small and midsize businesses
+
+🧩 Core Philosophy
+
+Clean architecture.
+Deterministic systems.
+Measured performance.
+No agency layers. No fluff.
+
+🌱 Currently Deepening
+
+Advanced full-stack engineering
+
+AI-assisted development workflows
+
+Scalable domain-driven architecture
+
+SaaS product strategy
+
+🤝 Open To
+
+Strategic freelance builds
+
+Founder-led software collaborations
+
+Select remote W2 opportunities
+
+🎧 Outside of Tech
+
+I write, record, and master music.
+
+📫 Connect
+
+LinkedIn: https://linkedin.com/in/danmunson1
 <!---
 d-activate/d-activate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
